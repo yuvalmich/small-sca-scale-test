@@ -1,7 +1,7 @@
 {
   "name": "small",
   "version": "1.0.0",
-  "description": "Extra Large package for SCA testing (frontend and full-stack setup).",
+  "description": "Extra Large package for SCA testing (frontend and full-stack setup). pr test 2.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
