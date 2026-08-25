@@ -1,6 +1,6 @@
 {
   "name": "small",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extra Large package for SCA testing (frontend and full-stack setup).",
   "main": "index.js",
   "scripts": {
