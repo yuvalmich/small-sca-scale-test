@@ -17,6 +17,7 @@
     "react-dom": "18.3.1",
     "next": "14.2.3",
     "prisma": "5.14.0",
+    "express": "4.16.0",
     "supertest": "6.3.4"
   }
 }
