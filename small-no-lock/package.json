@@ -18,6 +18,7 @@
     "next": "14.2.3",
     "prisma": "5.14.0",
     "express": "4.16.0",
+    "not-existing-pkacge-should-fail-scannnn": "2.5.12",
     "supertest": "6.3.4"
   }
 }
